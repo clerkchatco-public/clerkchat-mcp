@@ -6,7 +6,7 @@
   "version": "1.0.0",
   "websiteUrl": "https://clerkchat.co",
   "repository": {
-    "url": "https://github.com/OWNER/clerkchat-mcp",
+    "url": "https://github.com/clerkchatco-public/clerkchat-mcp",
     "source": "github"
   },
   "remotes": [
