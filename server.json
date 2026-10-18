@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
+  "name": "co.clerkchat/clerkchat",
+  "title": "ClerkChat",
+  "description": "Manage ClerkChat AI support agents: knowledge, channels, conversations, automations, analytics.",
+  "version": "1.0.0",
+  "websiteUrl": "https://clerkchat.co",
+  "repository": {
+    "url": "https://github.com/OWNER/clerkchat-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.clerkchat.co/mcp"
+    }
+  ]
+}
